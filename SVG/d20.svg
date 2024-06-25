@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.32 97.02">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <polyline class="cls-1" points=".5 76.28 15.61 67.83 67.61 67.83 82.28 76.28 43.5 96.28 .5 77.39 .5 24.36 15.61 67.83"/>
+    <polyline class="cls-1" points="41.55 15.39 67.78 67.83 82.44 25.16"/>
+    <polyline class="cls-1" points="41.55 15.39 15.78 67.83 43.67 96.28 67.78 67.83"/>
+    <path class="cls-1" d="M41.55,15.39L.67,21.76S.29,21.76,41.45,.57l41.37,24.81"/>
+    <polyline class="cls-1" points="41.39 15.39 82.44 25.16 82.44 76.28"/>
+    <text class="cls-2" transform="translate(35.55 48.8)"><tspan x="0" y="0">20</tspan></text>
+    <line class="cls-1" x1="41.45" y1=".57" x2="41.55" y2="15.39"/>
+  </g>
+</svg>
